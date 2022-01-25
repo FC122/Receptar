@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Receptar</string>
+    <string name="my_recipes">My recipes</string>
+    <string name="zero_recipes">0 recipes</string>
+    <string name="add_recipe">Add recipe</string>
+    <string name="remove_recipe">Remove recipe</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="steps">Steps</string>
+    <string name="go_back">Go Back</string>
+    <string name="save_recipe">Save recipe</string>
+</resources>

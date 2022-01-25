@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631435818131",
+    "project_id": "receptar-3ae9f",
+    "storage_bucket": "receptar-3ae9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631435818131:android:de8d5aa1bdddd156380966",
+        "android_client_info": {
+          "package_name": "com.filipcica.receptar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631435818131-l86uqej43v5ilropr7m9ltqfumhccjsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsL04QA-inBeUoG_BUSnrHe9zx0vokzx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631435818131-l86uqej43v5ilropr7m9ltqfumhccjsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
